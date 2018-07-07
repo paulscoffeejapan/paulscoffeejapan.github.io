@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>//en/#menu</loc>
+    <lastmod>2017-03-02T11:59:21-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//en/#</loc>
     <priority>0</priority>
   </url>
